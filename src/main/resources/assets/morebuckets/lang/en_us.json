@@ -1,7 +1,15 @@
 {
   "itemGroup.mod_tab": "MoreBuckets",
   "item.morebuckets.wooden_bucket": "Wooden bucket",
+  "item.morebuckets.wooden_bucket.entity": "Wooden bucket %s",
+  "item.morebuckets.wooden_bucket.filled": "Wooden bucket %s",
   "item.morebuckets.stone_bucket": "Stone bucket",
+  "item.morebuckets.stone_bucket.entity": "Stone bucket %s",
+  "item.morebuckets.stone_bucket.filled": "Stone bucket %s",
   "item.morebuckets.gold_bucket": "Gold bucket",
-  "item.morebuckets.diamond_bucket": "Diamond bucket"
+  "item.morebuckets.gold_bucket.entity": "Gold bucket",
+  "item.morebuckets.gold_bucket.filled": "Gold bucket",
+  "item.morebuckets.diamond_bucket": "Diamond bucket",
+  "item.morebuckets.diamond_bucket.entity": "Diamond bucket %s",
+  "item.morebuckets.diamond_bucket.filled": "Diamond bucket %s"
 }
