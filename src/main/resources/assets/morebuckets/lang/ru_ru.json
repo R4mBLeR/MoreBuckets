@@ -1,7 +1,15 @@
 {
   "itemGroup.mod_tab": "MoreBuckets",
   "item.morebuckets.wooden_bucket": "Деревянное ведро",
+  "item.morebuckets.wooden_bucket.entity": "Деревянное ведро %s",
+  "item.morebuckets.wooden_bucket.filled": "Деревянное ведро %s",
   "item.morebuckets.stone_bucket": "Каменное ведро",
+  "item.morebuckets.stone_bucket.entity": "Каменное ведро %s",
+  "item.morebuckets.stone_bucket.filled": "Каменное ведро %s",
   "item.morebuckets.gold_bucket": "Золотое ведро",
-  "item.morebuckets.diamond_bucket": "Алмазное ведро"
+  "item.morebuckets.gold_bucket.entity": "Золотое ведро %s",
+  "item.morebuckets.gold_bucket.filled": "Золотое ведро %s",
+  "item.morebuckets.diamond_bucket": "Алмазное ведро",
+  "item.morebuckets.diamond_bucket.entity": "Алмазное ведро %s",
+  "item.morebuckets.diamond_bucket.filled": "Алмазное ведро %s"
 }
