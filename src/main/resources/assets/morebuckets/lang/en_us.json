@@ -7,8 +7,8 @@
   "item.morebuckets.stone_bucket.entity": "Stone bucket %s",
   "item.morebuckets.stone_bucket.filled": "Stone bucket %s",
   "item.morebuckets.gold_bucket": "Gold bucket",
-  "item.morebuckets.gold_bucket.entity": "Gold bucket",
-  "item.morebuckets.gold_bucket.filled": "Gold bucket",
+  "item.morebuckets.gold_bucket.entity": "Gold bucket %s",
+  "item.morebuckets.gold_bucket.filled": "Gold bucket %s",
   "item.morebuckets.diamond_bucket": "Diamond bucket",
   "item.morebuckets.diamond_bucket.entity": "Diamond bucket %s",
   "item.morebuckets.diamond_bucket.filled": "Diamond bucket %s"
