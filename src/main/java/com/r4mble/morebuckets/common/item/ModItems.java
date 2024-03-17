@@ -1,7 +1,6 @@
 package com.r4mble.morebuckets.common.item;
 
 import com.r4mble.morebuckets.MoreBuckets;
-import com.r4mble.morebuckets.common.ModItemTabs;
 import de.cech12.bucketlib.api.item.UniversalBucketItem;
 import net.minecraft.world.item.Item;
 import net.minecraftforge.registries.DeferredRegister;
