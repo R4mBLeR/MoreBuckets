@@ -4,9 +4,9 @@ license="${mod_license}"
 [[mods]]
 modId="${mod_id}"
 version="${mod_version}"
-displayName="MoreBuckets"
-authors="R4mBLe_"
-description='''The mod add more new buckets in minecraft'''
+displayName="${mod_name}"
+authors="${mod_authors}"
+description="${mod_description}"
 [[dependencies.${mod_id}]]
 modId="forge"
 mandatory=true
