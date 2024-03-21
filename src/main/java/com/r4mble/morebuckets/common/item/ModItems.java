@@ -29,7 +29,7 @@ public class ModItems {
 
     //Unusual
     public static final RegistryObject<Item> UNFIRED_CLAY_BUCKET = ITEMS.register("unfired_clay_bucket", () -> new UniversalBucketItem(
-            new UniversalBucketItem.Properties().tab(ModItemTabs.MORE_BUCKETS_MOD_TAB).durability(3).upperCrackingTemperature(1000).lowerCrackingTemperature(0)
+            new UniversalBucketItem.Properties().tab(ModItemTabs.MORE_BUCKETS_MOD_TAB).durability(3).upperCrackingTemperature(1000).lowerCrackingTemperature(0).disableEntityObtaining().disableBlockObtaining().disableMilking()
     ));
     public static final RegistryObject<Item> CERAMIC_BUCKET = ITEMS.register("ceramic_bucket", () -> new UniversalBucketItem(
             new UniversalBucketItem.Properties().tab(ModItemTabs.MORE_BUCKETS_MOD_TAB).durability(150)
