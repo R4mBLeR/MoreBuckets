@@ -14,13 +14,16 @@ public class ModItemTabs extends CreativeModeTab {
             DeferredRegister.create(Registries.CREATIVE_MODE_TAB, MoreBuckets.MOD_ID);
 
     public static final RegistryObject<CreativeModeTab> MORE_BUCKETS_MOD_TAB  = MOD_TABS.register("mod_tab",
-            () -> CreativeModeTab.builder().icon(() -> new ItemStack(ModItems.WOODEN_BUCKET.get()))
+            () -> CreativeModeTab.builder().icon(() -> new ItemStack(ModItems.GOLD_BUCKET.get()))
                     .title(Component.translatable("itemGroup.mod_tab"))
                     .displayItems((pParameters, pOutput) -> {
                         pOutput.accept(ModItems.WOODEN_BUCKET.get());
                         pOutput.accept(ModItems.STONE_BUCKET.get());
                         pOutput.accept(ModItems.GOLD_BUCKET.get());
                         pOutput.accept(ModItems.DIAMOND_BUCKET.get());
+                        pOutput.accept(ModItems.OBSIDIAN_BUCKET.get());
+                        pOutput.accept(ModItems.UNFIRED_CLAY_BUCKET.get());
+                        pOutput.accept(ModItems.CERAMIC_BUCKET.get());
 
                     })
                     .build());
