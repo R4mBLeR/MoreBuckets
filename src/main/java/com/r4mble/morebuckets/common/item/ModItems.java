@@ -22,5 +22,16 @@ public class ModItems {
     public static final RegistryObject<Item> DIAMOND_BUCKET = ITEMS.register("diamond_bucket", () -> new UniversalBucketItem(
             new UniversalBucketItem.Properties().durability(250)
     ));
+    public static final RegistryObject<Item> OBSIDIAN_BUCKET = ITEMS.register("obsidian_bucket", () -> new UniversalBucketItem(
+            new UniversalBucketItem.Properties().durability(500)
+    ));
+
+    //Unusual
+    public static final RegistryObject<Item> UNFIRED_CLAY_BUCKET = ITEMS.register("unfired_clay_bucket", () -> new UniversalBucketItem(
+            new UniversalBucketItem.Properties().durability(3).upperCrackingTemperature(1000).lowerCrackingTemperature(0)
+    ));
+    public static final RegistryObject<Item> CERAMIC_BUCKET = ITEMS.register("ceramic_bucket", () -> new UniversalBucketItem(
+            new UniversalBucketItem.Properties().durability(150)
+    ));
 
 }
