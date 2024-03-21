@@ -27,6 +27,10 @@ public class MoreBuckets
         BucketLibApi.registerBucket(ModItems.STONE_BUCKET.getId());
         BucketLibApi.registerBucket(ModItems.GOLD_BUCKET.getId());
         BucketLibApi.registerBucket(ModItems.DIAMOND_BUCKET.getId());
+        BucketLibApi.registerBucket(ModItems.OBSIDIAN_BUCKET.getId());
+
+        BucketLibApi.registerBucket(ModItems.UNFIRED_CLAY_BUCKET.getId());
+        BucketLibApi.registerBucket(ModItems.CERAMIC_BUCKET.getId());
     }
 
     private void ModRegister(IEventBus eventBus)

@@ -11,5 +11,11 @@
   "item.morebuckets.gold_bucket.filled": "Gold bucket %s",
   "item.morebuckets.diamond_bucket": "Diamond bucket",
   "item.morebuckets.diamond_bucket.entity": "Diamond bucket %s",
-  "item.morebuckets.diamond_bucket.filled": "Diamond bucket %s"
+  "item.morebuckets.diamond_bucket.filled": "Diamond bucket %s",
+  "item.morebuckets.obsidian_bucket.entity": "Obsidian bucket %s",
+  "item.morebuckets.obsidian_bucket.filled": "Obsidian bucket %s",
+  "item.morebuckets.unfired_clay_bucket.entity": "Unfired clay bucket %s",
+  "item.morebuckets.unfired_clay_bucket.filled": "Unfired clay bucket %s",
+  "item.morebuckets.ceramic_bucket.entity": "Clay bucket %s",
+  "item.morebuckets.ceramic_bucket.filled": "Clay bucket %s"
 }

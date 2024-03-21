@@ -13,6 +13,6 @@ public class ModItemTabs extends CreativeModeTab {
 
     @Override
     public ItemStack makeIcon() {
-        return new ItemStack(ModItems.WOODEN_BUCKET.get());
+        return new ItemStack(ModItems.GOLD_BUCKET.get());
     }
 }

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "morebuckets:unfired_clay_bucket"
+  },
+  "result": "morebuckets:ceramic_bucket",
+  "experience": 0.1,
+  "cookingtime": 200
+}

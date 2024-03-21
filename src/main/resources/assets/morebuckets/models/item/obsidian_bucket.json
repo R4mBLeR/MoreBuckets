@@ -1,0 +1,9 @@
+{
+  "parent": "bucketlib:item/universal_bucket",
+  "textures": {
+    "base": "morebuckets:item/obsidian_bucket",
+    "lowerBase": "morebuckets:item/obsidian_bucket_lower",
+    "crackedBase": "morebuckets:item/obsidian_bucket",
+    "crackedLowerBase": "morebuckets:item/obsidian_bucket_lower"
+  }
+}
