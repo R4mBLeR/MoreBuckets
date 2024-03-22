@@ -10,6 +10,8 @@
   "item.morebuckets.gold_bucket.entity": "Золотое ведро %s",
   "item.morebuckets.gold_bucket.filled": "Золотое ведро %s",
   "item.morebuckets.diamond_bucket": "Алмазное ведро",
+  "item.morebuckets.diamond_bucket.entity": "Алмазное ведро %s",
+  "item.morebuckets.diamond_bucket.filled": "Алмазное ведро %s",
   "item.morebuckets.obsidian_bucket": "Обсидиановое ведро",
   "item.morebuckets.obsidian_bucket.entity": "Обсидиановое ведро %s",
   "item.morebuckets.obsidian_bucket.filled": "Обсидиановое ведро %s",
