@@ -1,6 +1,7 @@
 package com.r4mble.morebuckets;
 
 import cech12.bucketlib.api.BucketLibApi;
+import com.r4mble.morebuckets.common.ModItemTabs;
 import com.r4mble.morebuckets.common.item.ModItems;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.eventbus.api.IEventBus;
@@ -35,7 +36,8 @@ public class MoreBuckets
 
     private void ModRegister(IEventBus eventBus)
     {
-     ModItems.ITEMS.register(eventBus);
+        ModItemTabs.MOD_TABS.register(eventBus);
+        ModItems.ITEMS.register(eventBus);
     }
 
 }
