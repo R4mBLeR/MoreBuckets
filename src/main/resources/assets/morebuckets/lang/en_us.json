@@ -18,7 +18,7 @@
   "item.morebuckets.unfired_clay_bucket": "Unfired clay bucket",
   "item.morebuckets.unfired_clay_bucket.entity": "Unfired clay bucket %s",
   "item.morebuckets.unfired_clay_bucket.filled": "Unfired clay bucket %s",
-  "item.morebuckets.ceramic_bucket": "Ceramic bucket %s",
+  "item.morebuckets.ceramic_bucket": "Ceramic bucket",
   "item.morebuckets.ceramic_bucket.entity": "Ceramic bucket %s",
   "item.morebuckets.ceramic_bucket.filled": "Ceramic bucket %s"
 }
